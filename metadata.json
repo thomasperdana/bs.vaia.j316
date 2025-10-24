@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Bible Study",
+  "description": "An interactive, voice-led Bible study app using Gemini's Live API. Explore John 3:16 through a guided Socratic conversation, allowing you to discover insights and form your own conclusions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
